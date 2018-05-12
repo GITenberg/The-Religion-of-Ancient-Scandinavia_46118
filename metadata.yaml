@@ -1,0 +1,30 @@
+_repo: The-Religion-of-Ancient-Scandinavia_46118
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46118-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Craigie, William A. (William Alexander), Sir
+    aliases:
+    - Craigie, W. A. (William Alexander), Sir
+    - Craigie, William Alexander, Sir
+    - Craigie, Sir William
+    birthdate: 1867
+    deathdate: 1957
+    gutenberg_agent_id: '43617'
+    url: http://www.gutenberg.org/2009/agents/43617
+description: ''
+gutenberg_issued: '2014-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46118'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Mythology, Norse'
+title: The Religion of Ancient Scandinavia
+url: http://www.gutenberg.org/ebooks/46118
